@@ -1,9 +1,8 @@
-# бот должен составлять предсказание на сегоднящний день
 import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot('1067406680:AAFUcDdxkI21NIwBwktFJIyWFI24cAkuZCM')
+bot = telebot.TeleBot('#####################################################')
 
 firstPartOfSentence = ["Сегодня прекрасный день для того, чтобы открыть для себя что-то новое.\n",
                        "Звезды сегодня благосколнно влияют на Вашу удачу.\n",
